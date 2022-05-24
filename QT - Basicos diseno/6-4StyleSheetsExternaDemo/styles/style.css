@@ -9,6 +9,7 @@ QLineEdit{
 QWidget#Widget > QLabel {
     font-weight : bold;
     font-size : 20 px;
+    background-color : rgb(246,222,200);
 }
 
 
